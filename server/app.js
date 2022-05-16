@@ -14,3 +14,4 @@ app.use('/', indexRouter);
 app.use('/links', linksRouter);
 
 module.exports = app;
+console.log("Hello");
